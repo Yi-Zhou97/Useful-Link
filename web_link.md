@@ -25,3 +25,5 @@
 [Clock C++](http://www.cplusplus.com/reference/chrono/steady_clock/now/)
 
 [Const C++](https://blog.csdn.net/SMF0504/article/details/52311207)
+
+[joint_state_publisher doesn't fully update source_list with use_gui=true ](https://answers.ros.org/question/304585/joint_state_publisher-doesnt-fully-update-source_list-with-use_guitrue/)
